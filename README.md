@@ -1,1 +1,1 @@
-# -Course_certificates
+# ![Сертификат на курс по python3 Биоинформатики](./photo_stepik_old.jpg) 
